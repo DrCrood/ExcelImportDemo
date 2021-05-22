@@ -1,0 +1,5 @@
+/.vs/*
+/.git/*
+/ExcelImport/bin/*
+/ExcelImport/obj/*
+/ExcelImport/*.db
