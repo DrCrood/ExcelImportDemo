@@ -3,3 +3,5 @@
 /ExcelImport/bin/*
 /ExcelImport/obj/*
 /ExcelImport/*.db
+/ExcelImport/obj/*
+/ExcelImport/bin/*
